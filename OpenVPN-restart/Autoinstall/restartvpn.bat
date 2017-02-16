@@ -3,7 +3,7 @@
 setlocal
 rem set f=%0%
 set f=SCVPN
-title %f% - ® OpenSolution Nordic AB %date:~,4%
+title %f% - RESTART RESTART RESTART %date:~,4%
 echo.
 echo Stoppar OpenVPN service...
 echo.

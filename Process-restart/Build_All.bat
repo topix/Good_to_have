@@ -1,0 +1,1 @@
+copy /b 7zsd_All.sfx + Configuration.txt + image.7z Process-restart.exe
